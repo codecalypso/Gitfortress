@@ -1,0 +1,15 @@
+Meat? Hmmm… A lamb chop would be nice about now. I deserve a lamb chop, preferably one dripping with graving on a bed of… can’t talk about any other food. Remember this is the meat folder and I’m on the meat branch. It is now 7:20.
+
+Oh before I close - I’m not going crazy. Git doesn’t erase files. I switched from the desert branch to the master branch once I committed all of my key lime changes(yeah, I know. I broke the rules. No references to any other foods) and the second changed that I made had not appeared in the file once the switch was made. Git might be cool. That’s enough rambling for now. Time to add this lamb chop to the stage!
+
+Oh boy I’m back. The untracked files: ./ 
+Yeah that. Long long sigh. I haven’t added anything because I’m not sure what to do. Apparently when I created this file I touched(touch meats.txt) while in the Food directory.
+See:
+CLM-SMullins:Foods smullins$ touch meats.txt
+CLM-SMullins:Foods smullins$ cd Meats
+CLM-SMullins:Meats smullins$ git branch
+  deserts
+  master
+* meats
+
+I’m afraid. Yikes, I just admitted that../
