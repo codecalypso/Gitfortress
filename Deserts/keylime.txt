@@ -3,3 +3,6 @@ Key lime pie is good. Is there pie better than key lime? I will push this pie to
 Yeah, throw pie at git!
 
 It is about 7:08pm, I have added and committed that stuff up there(first 3 lines) I created a deserts branch, switched to it and am now writing this sentence. Time to save.
+
+Its’s 8:24 and I am on the master too.
+8:25 was actually on the desert branch. Welp.
