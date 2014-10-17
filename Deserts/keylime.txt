@@ -1,3 +1,5 @@
 Today is Oct. 16th, 2014 
 Key lime pie is good. Is there pie better than key lime? I will push this pie to git. 
 Yeah, throw pie at git!
+
+It is about 7:08pm, I have added and committed that stuff up there(first 3 lines) I created a deserts branch, switched to it and am now writing this sentence. Time to save.
